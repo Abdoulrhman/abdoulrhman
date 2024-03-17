@@ -21,23 +21,15 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Abdoulrhman, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
+- Hello, and welcome to my GitHub profile! My name is Abdoulrhman, and I am a passionate front-end software engineer committed to crafting engaging, high-quality web applications. 
 
-- Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
+- Armed with a Bachelor's degree in Information technology, my educational journey has been rich with opportunities to deepen my understanding of software development. Beyond academia, I am a fervent learner, continuously exploring new technologies and methodologies to enhance my skills in creating intuitive and dynamic user interfaces.
 
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
+- My expertise lies in leveraging HTML, CSS, React,Typescript and JavaScript to bring designs to life, ensuring a seamless and responsive user experience. My GitHub portfolio is a testament to my dedication to learning, improvement, and experimentation in the ever-evolving landscape of front-end development.
 
 -  Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
 
-- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
-
-- I encourage you to take a look at my work on <a href="https://www.frontendmentor.io/profile/0xAbdulKhalid">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
-
-- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
-
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:0xabdulkhalid@gmail.com">0xabdulkhalid@gmail.com</a>
-
-- Thank you for visiting my profile, and I look forward to connecting with you!
+ Thank you for stopping by my profile. I am looking forward to the possibility of connecting with you and exploring how we can bring innovative projects to life together.
 
 <br><br>
 
@@ -48,27 +40,26 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages & Technologies**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+    ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+    ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
+    ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+    ![SASS](https://img.shields.io/badge/SASS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+    ![Webpack](https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+    ![NPM](https://img.shields.io/badge/NPM%20-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
 
 <br>   
     
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
 
 - **Softwares and Tools**:
 
@@ -97,23 +88,6 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-[![Abdul Khalid's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Abdul Khalid's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
-
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
